@@ -1,2 +1,5 @@
 In my heart, you're still a planet.
+<<<<<<< HEAD
 However, it's too far away.
+=======
+>>>>>>> b02abe4952bf3d1909b61ea787ac674b77839012
